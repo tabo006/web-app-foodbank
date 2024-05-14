@@ -44,4 +44,7 @@ Input field for items with various selections
 Input field for alternative options in the case that an item is low in stock
 Alerts that ask the client to reduce their quantities in case they go over their limits
 Clients have the option to indicate that they are registered as a family which then increases their limits.
+
+
+Note: I have not added a database insertion file, so you would need to run the DDL sql file in the  client folder to create the database and then manualyy insert your chosen username and password for the admin and volunteer accounts
  
