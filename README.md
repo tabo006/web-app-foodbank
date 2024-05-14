@@ -14,6 +14,7 @@ App description:
 The web application includes 3 different user interfaces. One for the administrators, one for volunteers, and one for the clients.
 The landing page of the website includes basic information on the service, and has buttons to redirect users to their desired usage of the website.
 Functionalities of the administrators' user interface include the following:
+
 Viewing submitted orders
 Approving submitted orders
 Editing submitted orders
