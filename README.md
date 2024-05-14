@@ -1,5 +1,6 @@
 # web-app-project
 Abraham food bank app
+
 to run server run the following in the server directory through terminal: node index.js
 to run web app run the following code in the client/src directory: npm start
 
@@ -23,13 +24,17 @@ Adding comments on orders
 Adding items to the clients' list of available items
 Changing the status of available items to the following: Out of stock, in stock, high stock, or low stock. All of these states have different implications on the client side of the web application
 Editing the description, name, and maximum limit of items
-Changing the status of the food bank from in-stock to out-of-stock. Changing the status to out-of-stock disables the clients from submitting forms.
+Changing the status of the food bank from in-stock to out-of-stock. Changing the status to out-of-stock disables the clients from submitting forms
+
 Functionalities of the volunteers's user interface include the following:
+
 Viewing approved orders
 Editing approved orders
 Adding comments on approved orders
 Changing the status of approved orders to complete
+
 Functionalities of the client's user interface include the following:
+
 Submitting orders
 Adding items to order while respecting limits
 Removing items from an order
