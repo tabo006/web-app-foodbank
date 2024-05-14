@@ -1,15 +1,6 @@
 # web-app-project
 Abraham food bank app
 
-to run server run the following in the server directory through terminal: node index.js
-to run web app run the following code in the client/src directory: npm start
-
-This app was designed a grocery order system for a small size food bank, the app is tested although it was never deployed for actual use as some contract issues arose with the organization to whom the app was destined for.
-
-The following are the login credentials for the admina and volunteer accounts:
-Username: Foodbank@seuo-uosu.com
-Password: Foodbank2023
-
 App description:
 
 The web application includes 3 different user interfaces. One for the administrators, one for volunteers, and one for the clients.
@@ -45,6 +36,15 @@ Input field for alternative options in the case that an item is low in stock
 Alerts that ask the client to reduce their quantities in case they go over their limits
 Clients have the option to indicate that they are registered as a family which then increases their limits.
 
+
+to run server run the following in the server directory through terminal: node index.js
+to run web app run the following code in the client/src directory: npm start
+
+This app was designed a grocery order system for a small size food bank, the app is tested although it was never deployed for actual use as some contract issues arose with the organization to whom the app was destined for.
+
+The following are the login credentials for the admina and volunteer accounts:
+Username: Foodbank@seuo-uosu.com
+Password: Foodbank2023
 
 Note: I have not added a database insertion file, so you would need to run the DDL sql file in the  client folder to create the database and then manualyy insert your chosen username and password for the admin and volunteer accounts
  
