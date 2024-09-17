@@ -46,5 +46,5 @@ The following are the login credentials for the admina and volunteer accounts:
 Username: Foodbank@seuo-uosu.com
 Password: Foodbank2023
 
-Note: I have not added a database insertion file, so you would need to run the DDL sql file in the  client folder to create the database and then manualyy insert your chosen username and password for the admin and volunteer accounts
+Note: I have not added a database insertion file, so you would need to run the DDL sql file in the  client folder to create the database and then manualy insert your chosen username and password for the admin and volunteer accounts. You also need to edit the /server/index.js file to input your login credentials for your postgres database.
  
