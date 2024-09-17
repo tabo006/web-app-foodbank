@@ -7,6 +7,7 @@ const corsOptions ={
    optionSuccessStatus:200,
 }
 
+//edit this section for database connection
 const {Client} = require('pg')
 const express = require('express')
 const router = express.Router();
@@ -15,7 +16,7 @@ const db = knex({
     connection: {
         host: "localhost",
         user: "postgres",
-        password: "Yandjimadji1",
+        password: "XXXX",
         database: "postgres"
     },
 });
